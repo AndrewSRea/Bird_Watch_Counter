@@ -1,2 +1,3 @@
 # Bird_Watch_Counter
-An app for bird watchers to count birds
+
+A simple app for counting birds for bird watchers. :parrot: :duck: :eagle: :dove: :owl:
